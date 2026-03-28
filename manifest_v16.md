@@ -53,7 +53,7 @@ The outside arrives. The Free Folk are already pushing beyond the basin's famili
 
 ### 2.4 The Geography
 
-- **Northshore** (Evanston, Wilmette, Winnetka): Player landing zone. Shore settlements are the oldest surviving communities in the basin. They know something is in the lake. They have been deciding for thirty-seven years not to know more specifically.
+- **Northshore** (Evanston, Wilmette, Winnetka): Player arrival point. The player washes ashore here with no recoverable memory of origin — an outside arrival in the Bioshock / Elder Scrolls tradition, unknown to themselves and unknown to the world. M/F player choice. Shore settlements are the oldest surviving communities in the basin. They know something is in the lake. They have been deciding for thirty-seven years not to know more specifically. The player's arrival is one more thing they are practicing not-knowing more specifically about. The player's amnesia and the shore settlements' chosen ignorance are the same epistemic posture arriving from opposite directions.
 - **Chicago Loop**: Luminary territory. Steel frame skyscrapers survived the airburst. Light hierarchy runs vertically. The elevated Loop — the rectangle of track that circles downtown — runs on the restored grid and is both the faction's most visible logistical advantage and the architectural expression of their theology.
 - **O'Hare ruins**: Watch compound. Largest flat defensible ground in the region. Controls western road approaches and the basin's best maintained road network.
 - **The Deadlands** (south and southwest, Midway area): Ground burst zone. Still radiologically active. Nothing lives there willingly. The most honest ground in the basin.
@@ -63,7 +63,7 @@ The outside arrives. The Free Folk are already pushing beyond the basin's famili
 - **Sugar Grove / Fox River valley**: Green Hands territory. Seed bank, underground greenhouse complex, Fox River diversion infrastructure.
 - **Western prairie**: Independent farming communities between the Watch's territory and the approaching fire. The Free Folk move through here.
 - **Lake Michigan**: Enormous, cold, incompletely mapped. The Bathyal diaspora is scattered across the lake.
-- **Southern suburbs** (radiation band): Partial fission scatter zone. Elevated but survivable. The Repentant consider it honest territory. The Butchers operate in the southern portion.
+- **Southern suburbs** (radiation band): Partial fission scatter zone. Elevated but survivable. The Repentant consider it honest territory. The most dangerous organized predator group of the acute crisis years operated in the southern portion and has since collapsed. The Repentant Watcher knows what happened to them. He does not discuss it.
 
 ### 2.5 Transportation
 
@@ -97,7 +97,7 @@ The pre-war technological state in 2059 meant the world had approximately 10 bil
 
 Global temperature drops 10 to 12 degrees Celsius in the northern hemisphere. The Great Lakes region, with its massive thermal reservoir, moderates the most extreme cold but loses reliable growing seasons entirely. The sky is wrong — a specific quality of filtered yellowish light from stratospheric particulates that everyone who survived it carries as a bodily memory. The basin's population of 15 million is reduced to approximately 800,000 survivors by Year 5.
 
-This is the period that produces the Unmoored, the Butchers, and the conditions that force every surviving community into its founding decisions. The acute phase ran the threat system at maximum in everyone who survived it. The founding generation built their factions with the play system largely dark and the attachment system redirected toward collective survival. Every faction's foundational logic carries this mark — they solved the survival problem under conditions that would not allow for full humanity, and then institutionalized the solution.
+This is the period that produces the Unmoored and the conditions that force every surviving community into its founding decisions. It is also the period that produces things that did not survive — organized predator groups that exhausted their prey population and collapsed, leaving only the knowledge of what they were in the people who outlasted them. The acute phase ran the threat system at maximum in everyone who survived it. The founding generation built their factions with the play system largely dark and the attachment system redirected toward collective survival. Every faction's foundational logic carries this mark — they solved the survival problem under conditions that would not allow for full humanity, and then institutionalized the solution.
 
 **Transition Phase (Years 5–15)**
 
@@ -193,7 +193,7 @@ Six figures emerge naturally within the group:
 - **The Doubter**: does not understand how the Witness operates. Finds comfort in his presence nonetheless. This is its own kind of faith.
 - **The Keeper of Pace**: practical, faithful, somewhat jealous of the Witness's stillness within the wasteland.
 - **The Voice**: holds the redemption question most fully.
-- **The Watcher**: the only person in the group with an accurate model of the Witness as a person rather than as a theological figure. The mechanical interface between the player and the Witness.
+- **The Watcher**: the only person in the group with an accurate model of the Witness as a person rather than as a theological figure. The mechanical interface between the player and the Witness. Has walked the radiation band long enough to know what happened to the organized predator group that operated there during the crisis years. Carries this knowledge the way the Witness carries everything — without comment, without resolution.
 - **The Keeper of Breath**: the person upon whom the Witness depends more than has been acknowledged.
 
 ### 4.6 The Pax Mullebris — Transformation
@@ -212,7 +212,7 @@ Their military doctrine: poison, subterfuge, and the deliberate cultivation of i
 
 River traders and information carriers. Opportunists organized around the waterways. They trade, carry information, run cargo through or around the toll infrastructure, and raid when the opportunity presents itself and the risk is acceptable.
 
-Leadership texture: chieftains are all men. The middle-aged lead as the balance between energy and wisdom. The elders are a respected knowledge source rather than an authority. This is not imposed hierarchy — it is the pattern that emerges from the specific demands of river life.
+Leadership texture: **boat captains** are predominantly male — the pattern that emerged under acute-phase survival pressure on open water, where physical crew command in dangerous conditions developed that way and has persisted as norm. **Node keepers** — the Free Folk who hold the rooted waypoints, provisioning stops, and winter camps that the river network depends on — are mixed, defaulting historically to whoever was most capable when boats were away, which was often women. **Elders** are explicitly mixed and hold the knowledge class role without gender distinction. **Information carriers** — the Free Folk's most strategically valuable function — skew female, because the role rewards social invisibility and the ability to move through faction spaces without attracting scrutiny. The middle-aged lead as the balance between energy and wisdom at every level. This is not imposed hierarchy — it is the pattern that emerged from the specific demands of river life and the thirty-seven years of survival conditions that shaped it.
 
 The collectivization potential: the right person speaking the language of chosen obligation, carrying enough story to be heard across groups, could temporarily unify them around a specific enough cause. The fire reaching the river is the most obvious candidate.
 
@@ -227,7 +227,7 @@ The share structure: voting power in Union decisions is proportional to share ow
 | Name | Route | Notes |
 |---|---|---|
 | **Beth** | River Spine Route | Chicago Loop lock at one end, Channahon confluence at the other. Primary target of factional pressure. |
-| **Will** | Southern Radiation Band | The route nobody officially acknowledges. Working relationships with the Repentant, knowledge of Butcher operations. |
+| **Will** | Southern Radiation Band | The route nobody officially acknowledges. Working relationships with the Repentant. Knows more about what happened in the radiation band during the crisis years than anyone who wasn't there. |
 | **Reese** | Western Prairie Circuit | His territory is shrinking at two miles per year as the Green Hands' burn perimeter advances. |
 | **Lucia** | Starved Rock Spur | Follows Pax Mullebris movement patterns. Most independent-minded overseer. |
 | **Claude** | Lake Shore Route | Knows things about the shore settlements that the inland factions never see. Operating in the space where the Bathyal diaspora is quietly embedded. |
@@ -239,11 +239,7 @@ The share structure: voting power in Union decisions is proportional to share ow
 
 Formed in the acute crisis years from a western suburb community. Substance from a pre-war pharmaceutical cache — MDMA-adjacent emotional dissolution, LSD-adjacent perceptual reorganization, opiate-adjacent analgesia. Originally medicine. Now dependency. The pharmacological hijacking of the seeking and reward systems simultaneously: not just pleasure-seeking but the collapse of the gap between seeking and finding. Everything becomes arrival. The horizon disappears. The oldest Shaman remembers what the ritual was for.
 
-**The Butchers**
-
-Formed in the radiation band during the acute crisis from a group facing starvation who applied livestock logic to a resource problem and discovered that fear generated by what they were doing was itself a resource. They are cannibals. Keeping women as breeders and killing men is not cruelty for its own sake — it is the livestock framework applied consistently to two different resource categories.
-
-The Butcher camp survivor: the woman who has been there longest and understands the operation most completely has made contact with a Pax Mullebris emissary. Her goal has shifted from helping kidnapped women adjust to actively planning their liberation. This relationship is the most dangerous thing in the Butchers' operational environment and they have no idea it exists.
+Dependency cultures with ritual memory of their origin are historically durable. The Unmoored have survived thirty-seven years because the substance produces social cohesion that substitutes for every other organizing principle. They are the basin's most unsettling mirror: a community that solved the meaning problem through chemistry and has been solving it ever since.
 
 ### 4.10 The Bathyal — NPC Population
 
@@ -307,7 +303,7 @@ crossFactionBonds: [
 - The terminal operator and the Free Folk information carrier: Victor has been sitting with dangerous knowledge in isolation. A Free Folk carrier who passes through Channahon regularly has noticed.
 - The Repentant Watcher and the Pax Mullebris elder: They have never met. They would recognize each other instantly if they did.
 - The Bathyal diaspora and the shore settlements: Some members of the dissolved Bathyal communities are in the shore settlements, recognizable to each other in low light through the tapetum lucidum.
-- The Butcher camp survivor and the Pax Mullebris emissary: The most operationally active secret alliance in the world right now.
+- The Pax Mullebris emissary who was running the most operationally active secret alliance in the basin has returned to Starved Rock. What she learned and brought back is now part of the canyon wall knowledge. The specific Pax Mullebris response to what collapsed in the radiation band has not been announced.
 - Varek and the local Free Folk chieftain: A relationship of mutual respect that neither party will fully acknowledge.
 - The Flame Council elder and the daughter at Starved Rock: The elder's daughter walked to Starved Rock three years ago.
 - Sera and the Algorithm: An ideological and covert asset relationship. Sera is positioned inside the Luminaries' succession structure to deliver the orbital link to Algorithm control.
@@ -316,9 +312,13 @@ crossFactionBonds: [
 
 ## 7. The Cosmological Framework
 
-Everything observable in the world is an expression of a single underlying principle: vibration. Not as metaphor. As the actual operating logic of reality.
+*This section describes the design layer's working model for how ideological contagion, biological entrainment, and faction gravity operate — not a metaphysical claim about the fabric of reality. It is the engine's conceptual architecture: the ouroboros of constant state change (highs and lows, heartbeat, breath, seasons, living and dying) as the mechanical grammar underlying the substrate, passion, and belief systems. The factions are not aware of this model. The player is not told about it. It is the water everyone is swimming in.*
 
-The fundamental quality of the universe is vibration. Everything vibrates. The differences between things are differences in frequency, amplitude, and the relationships between vibrating bodies. A piece of iron near a magnetic field doesn't choose to become magnetic. The field reorganizes the iron's internal structure through proximity alone. This is exactly what happens to people inside factions. The ideology doesn't persuade. It entrains.
+Everything the character systems model — the oscillating substrate intensities, the passion states surfacing and submerging, the belief system's resistance and eventual capitulation to sustained contradiction — follows from a single operating principle: everything moves in cycles. Not as metaphor. As the actual mechanical logic of the simulation.
+
+The fundamental rhythm is the high and the low. The heartbeat. The breath. The season. The faction that rises and the faction that collapses. The world that was and the world that is. The Ouroboros: the basin at Year 37 A.D. is a specific moment in a cycle whose beginning and end are the same point.
+
+The differences between things in this framework are differences in frequency, amplitude, and the relationships between oscillating bodies. A piece of iron near a magnetic field doesn't choose to become magnetic. The field reorganizes the iron's internal structure through proximity alone. This is exactly what happens to people inside factions. The ideology doesn't persuade. It entrains.
 
 ### 7.1 Vibration as Biological Reality
 
@@ -453,7 +453,7 @@ Drives are what the substrate systems become when they acquire orientation throu
 
 **D8 — Power Drive**: S6 (Status) primary. The need to be the organizing force in a situation. Present in all faction leaders — expressed differently depending on other drives. Varek: D8 + D4 (power as the application of mastery). The Shepherd: D8 + D1 (power as information monopoly). Generates downstream: `knowledge.information_is_power`, `eth.will_primary` in some configurations.
 
-**D9 — Care Drive**: S7 (Care) primary. The need to protect and provision others. Generates downstream: `human.goodness_baseline`, `cause.debt_to_dead`, `eth.virtue_primary`. The Butcher camp survivor: her care drive is now aimed at the women around her, which is the most operationally significant redirection in the basin.
+**D9 — Care Drive**: S7 (Care) primary. The need to protect and provision others. Generates downstream: `human.goodness_baseline`, `cause.debt_to_dead`, `eth.virtue_primary`. The Pax Mullebris emissary who returned from the radiation band: her care drive has been redirected by what she witnessed and brought back, which is now part of the canyon wall knowledge and the most operationally significant drive redirection currently inside Starved Rock.
 
 **D10 — Transcendence Drive**: S9 (Meaning) primary, S4 (Play) secondary. The need to connect to something beyond the self. Generates downstream: `telos.transcendent`, `onto.transcendent`, `epist.faith_valid`. The Witness: extreme — he did not find transcendence, he dissolved the self that was blocking it.
 
@@ -501,7 +501,7 @@ Axioms are foundational beliefs about the nature of reality. A character does no
 
 **`eth.consequence_primary`** — Right action is determined by outcomes. *Philosophers*: Bentham, Mill, Singer, consequentialism generally.
 
-**`eth.will_primary`** — Morality is the expression of will. Power is the ground, not the violation. *Philosophers*: Nietzsche, Thrasymachus, Machiavelli. The Butchers are the most honest faction in the basin in one specific and terrible sense: they did not bother with the costume.
+**`eth.will_primary`** — Morality is the expression of will. Power is the ground, not the violation. *Philosophers*: Nietzsche, Thrasymachus, Machiavelli. The most predatory groups of the acute crisis years were the most honest holders of this axiom in the basin in one specific and terrible sense: they did not bother with the costume. Every faction that survived them holds some version of this axiom underneath whatever else they hold — they just wear the costume.
 
 **`eth.virtue_primary`** — Right action flows from character. What matters is what kind of person you are. *Philosophers*: Aristotle, Confucius, Stoic ethics, MacIntyre. The Watch is reaching toward this without knowing it — the code is the scaffolding for character development, not the destination.
 
@@ -1231,7 +1231,7 @@ The choice between remaining the equilibrium point and letting the system reorga
 
 ### 13.9 The Raiders — Endpoints
 
-The Unmoored disappear within one to two generations as the pre-war pharmaceutical caches are exhausted. Not through defeat — through the logic of their own dependency reaching its endpoint. The Butchers expand as their prey population collapses, pushing into Watch-contracted territory and Pax Mullebris operational radius. The internal division cultivated inside the camps for years fires from inside when the active phase begins.
+The Unmoored disappear within one to two generations as the pre-war pharmaceutical caches are exhausted. Not through defeat — through the logic of their own dependency reaching its endpoint. The oldest Shaman's knowledge of what the ritual was for does not transfer. When the last cache runs dry, there is nothing left that knows what it was for.
 
 ### 13.10 The Synthesis
 
@@ -1450,4 +1450,18 @@ The first generation born entirely post-Destruction (age 22 at Year 37) is the a
 
 ---
 
-*v15 — End of Document*
+### A.14 The Narrative Layer — LLM Architecture
+
+The engine handles world data. An LLM handles narrative.
+
+The engine's responsibility: maintaining the full state graph — Star belief states, passion values, independent values, faction pressures, active INTERESTS, cross-faction bond flags, seasonal time progression, splintering states. All world truth lives here. The engine does not generate prose.
+
+The LLM's responsibility: generating all dialogue, narration, and player-facing text from a compressed state snapshot injected at prompt time. The LLM does not maintain state between calls.
+
+The interface contract is a **state summary object** — a compressed, current read of everything true right now for the Stars and situations in frame. Not the full graph: a focused snapshot. This object is the seam between systems and must be designed explicitly before either system is built. Consistency errors live at this seam.
+
+The LLM is also stateless between calls — it has no memory of prior conversations unless the state summary object contains them. Relevant prior player actions that have shifted world state are represented in the state object, not in conversational history. This is a feature: it keeps the narrative layer from accumulating hallucinated continuity.
+
+---
+
+*v16 — End of Document*

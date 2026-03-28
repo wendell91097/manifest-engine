@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Manifest Engine — World Bible v15</title>
+<title>Manifest Engine — World Bible</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
@@ -451,7 +451,7 @@ body{
 <nav id="sidebar" aria-label="Document navigation">
   <div class="sb-logo">
     <strong>MANIFEST ENGINE</strong>
-    <span>World Bible · v15</span>
+    <span>World Bible · v16</span>
     <span>Lake Michigan Basin · Year 37 A.D.</span>
   </div>
   <ul id="nav"></ul>
@@ -715,12 +715,12 @@ window.addEventListener('scroll',()=>{
 
   let md;
   try {
-    const res = await fetch('./manifest_v15.md');
+    const res = await fetch('./manifest_v16.md');
     if(!res.ok) throw new Error('fetch failed');
     md = await res.text();
   } catch(e){
     document.getElementById('loading').innerHTML =
-      '<span style="color:#c06060">Could not load manifest_v15.md — make sure it\'s in the same directory as index.html.</span>';
+      '<span style="color:#c06060">Could not load manifest_v16.md — make sure it\'s in the same directory as index.html.</span>';
     return;
   }
 
