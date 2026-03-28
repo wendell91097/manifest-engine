@@ -253,19 +253,31 @@ The origin question — genetic engineering versus radiation-accelerated adaptat
 
 ---
 
-## 5. Currency and Trade
+## 5. Trade and Exchange
 
-The basin runs on multiple simultaneous currency systems that only partially convert to each other.
+The basin runs on barter. Thirty-seven years after the Destruction eliminated every monetary system simultaneously, no faction has successfully introduced a common medium of exchange that the whole basin accepts. What moves between people is goods and labor, negotiated directly.
 
-- **Luminaries**: Light access and heat; passage through the river mouth lock.
-- **Algorithm**: Information outputs and resource allocation authority. The toll is the visible form but the real currency is the authority to tell a settlement how to allocate its resources.
-- **Watch**: Security contracts and the legitimacy that comes with them.
-- **Green Hands**: Food from the seed bank's restored agricultural land, but almost never traded outside the perimeter. External currency is primarily fear.
-- **Pax Mullebris**: Medicine primarily. Secondary: intelligence. Tertiary: the emissary transformation service.
-- **Free Folk**: Information. Secondary: transport and plausible deniability. Stories are also currency.
-- **Merchants Union**: Everything, with the network itself as the reserve currency.
+### 5.1 What Actually Trades
 
-Information about people — who owes what to whom, who has cross-faction connections, who is not who their faction believes them to be — is the most dangerous currency in the basin. Labor denominated in seasons is the basin's most common small-scale transaction.
+Goods are the primary basis of exchange. The most liquid categories — the ones that trade in every settlement regardless of faction affiliation — are food, clean water, medicine, fuel, scrap metal, tools, and materials for construction and repair. Weapons trade freely in the independent settlements and among the Free Folk; less so inside faction perimeters where supply is internally managed. Finished goods (processed food, preserved medicine, fabricated tools) carry higher value than raw materials because they contain embedded labor.
+
+Services divide into two tiers. Non-specialized labor — carrying, farming, construction, maintenance — is the basin's most common small transaction, typically denominated in meals or shelter by the day or week. Specialized labor — medical care, mechanical repair, navigation, translation, fighting ability, agricultural knowledge — commands significantly more, and the people who hold it are effectively mobile capital. A surgeon or a competent irrigation engineer is not a laborer; they are a resource that factions actively try to attract, retain, and occasionally coerce.
+
+### 5.2 What Makes Barter Hard
+
+Without a common unit of account, every transaction requires a double coincidence of wants — the person with surplus grain needs to find someone with surplus medicine who also wants grain. The Merchants Union exists primarily to solve this problem through network effects: they know who has what, who needs what, and how to route the exchange through intermediaries who make both sides possible. Their actual value is not the goods they carry but the information and trust infrastructure that makes the exchange happen at all.
+Perishability creates urgency. Food spoils. Medicine has shelf life. A surplus today is not guaranteed tomorrow, which pushes settlements toward immediate exchange rather than storage and later trade. The Green Hands' seed bank and preserved food stocks give them structural power precisely because they have solved this problem at scale.
+
+### 5.3 Where Faction Resources Fit
+
+The factions do not operate outside the barter economy — they operate on top of it. Their strategic resources (the electrical grid, the river mouth lock, the data center, the seed bank, the Watch's fighting force, the Pax Mullebris' medical knowledge) are not currencies. They are coercive instruments: the capacity to make a settlement's situation better or worse regardless of what the settlement would prefer to trade.
+The Luminaries do not sell light. They control who gets it, which reorganizes the neurochemistry and productivity of everyone inside their territory. The Algorithm does not sell information. It controls what information the basin treats as authoritative before any settlement decides how to respond to it. The Watch does not sell security as a commodity in a free market — it selects which communities are worth protecting based on whether those communities are ready to internalize the code.
+The distinction matters: barter requires consent. Faction leverage mostly does not.
+
+### 5.4 What Information Is Worth
+
+Information about people — who owes what, who has cross-faction connections, who is not who their faction believes them to be — is the most dangerous tradeable asset in the basin, and the one that most closely resembles a currency in that it is fungible, portable, and does not spoil. The Free Folk carry it. The Merchants Union holds it. The Pax Mullebris has accumulated thirty-seven years of it from every woman who left a faction and arrived at Starved Rock.
+The Shepherd has had a monopoly on the most consequential category of information — what the basin does not know about itself and what exists beyond it — for thirty-seven years. That monopoly is the Algorithm's actual structural position in the economy, and it has nothing to do with barter.
 
 ---
 
